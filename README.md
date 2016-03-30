@@ -1,4 +1,4 @@
-# Chicago Android Development Immersive Admissions FAQ
+# Chicago Android Development Admissions
 
 Hi there! Interested in taking ADI in Chicago? Take a look here!
 
