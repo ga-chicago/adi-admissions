@@ -49,7 +49,8 @@ These requirements are the *minimum*. **If you are unsure of how to check, let u
   - Are comfortable living on the wild side
   - You've used Linux in the past (maybe you're a PHP/MySQL kind of person)
 * **What version of Linux would you suggest for a newbie?** We recommend Linux Mint (with Cinnamon) or Ubuntu if you are new to Linux. Both are easy to get started with. However, if you are asking this you should probably just use what you already know.
-* **Can I run WDI in a virtual machine?** Yes, if you can:
+* **Can I run ADI in a virtual machine?** Yes, if you can:
   - Install it yourself
   - Configure your own networking adapters
   - Allocate at least 4GB of RAM to your virtual machine
+  - Troubleshoot device/network bridging issues between your host/VM client on your own
