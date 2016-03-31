@@ -9,7 +9,7 @@ These requirements are the *minimum*. **If you are unsure of how to check, let u
 #### Windows
 
 * Microsoft® Windows® 7/8/10 (32- or 64-bit)
-* 2 GB RAM minimum, 4 GB RAM recommended
+* 4 GB RAM minimum, 4 GB RAM recommended
 * At least 5 GB of hard drive space for Android SDK, emulator system images, projects, and caches
 * 1280 x 800 minimum screen resolution
 * Java Development Kit (JDK) 7
@@ -18,7 +18,7 @@ These requirements are the *minimum*. **If you are unsure of how to check, let u
 #### Mac OS X
 
 * Mac® OS X® 10.8.5 or higher
-* 2 GB RAM minimum, 4 GB RAM recommended
+* 4 GB RAM minimum, 4 GB RAM recommended
 * At least 5 GB of hard drive space for Android SDK, emulator system images, projects, and caches
 * 1280 x 800 minimum screen resolution
 * Java Runtime Environment (JRE) 6
@@ -29,7 +29,7 @@ These requirements are the *minimum*. **If you are unsure of how to check, let u
 
 * GNOME or KDE desktop
 * GNU C Library (glibc) 2.15 or later
-* 2 GB RAM minimum, 4 GB RAM recommended
+* 4 GB RAM minimum, 4 GB RAM recommended
 * At least 5 GB of hard drive space for Android SDK, emulator system images, projects, and caches
 * 1280 x 800 minimum screen resolution
 * Oracle® Java Development Kit (JDK) 7
