@@ -12,6 +12,7 @@ These requirements are the *minimum*. **If you are unsure of how to check, let u
 * 4 GB RAM minimum, 4 GB RAM recommended
 * At least 5 GB of hard drive space for Android SDK, emulator system images, projects, and caches
 * 1280 x 800 minimum screen resolution
+* 2GB Video Card for Android Emulation
 * Java Development Kit (JDK) 7
 * Optional for accelerated emulator: Intel® processor with support for Intel® VT-x, Intel® EM64T (Intel® 64), and Execute  Disable (XD) Bit functionality
 
@@ -21,6 +22,7 @@ These requirements are the *minimum*. **If you are unsure of how to check, let u
 * 4 GB RAM minimum, 4 GB RAM recommended
 * At least 5 GB of hard drive space for Android SDK, emulator system images, projects, and caches
 * 1280 x 800 minimum screen resolution
+* 2GB Video Card for Android Emulation
 * Java Runtime Environment (JRE) 6
 * Java Development Kit (JDK) 7
 * On Mac OS, run Android Studio with Java Runtime Environment (JRE) 6 for optimized font rendering. You can then configure your project to use Java Development Kit (JDK) 6 or JDK 7.
@@ -32,6 +34,7 @@ These requirements are the *minimum*. **If you are unsure of how to check, let u
 * 4 GB RAM minimum, 4 GB RAM recommended
 * At least 5 GB of hard drive space for Android SDK, emulator system images, projects, and caches
 * 1280 x 800 minimum screen resolution
+* 2GB Video Card for Android Emulation
 * Oracle® Java Development Kit (JDK) 7
 * 64-bit distribution capable of running 32-bit applications
 * Note: We've only tested on Ubuntu® 14.04, Trusty Tahr (64-bit distribution capable of running 32-bit applications).
