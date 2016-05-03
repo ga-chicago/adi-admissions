@@ -4,7 +4,7 @@ Hi there! Interested in taking ADI in Chicago? Take a look here!
 
 ## Minimum Laptop System Requirements
 
-These requirements are the *minimum*. **If you are unsure of how to check, let us know and we'll connect you with an instructor!** You _should_ be comfortable (and have used) the operating system you choose; we will be able to support Java/Android specific issues on your system but not every aspect of the operating system. Your class' instructional staff teaches on a Mac but Android Studio is identical on every operating system.
+These requirements are the *minimum*. **If you are unsure of how to check, let us know and we'll connect you with an instructor!** You _should_ be comfortable (and have used) the operating system you choose; we will be able to support Java/Android specific issues on your system but not every aspect of the operating system. Your class' instructional staff teaches on a Mac but Android Studio is identical on every operating system. Any system older than 5 years old will *run slow at times; blame Moore's Law.*
 
 #### Windows
 
